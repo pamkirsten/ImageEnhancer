@@ -1,14 +1,15 @@
-IMAGES ENHANCED:11
+IMAGES ENHANCED:12
  
 LOCATIONS: 
 enhanced/cat.jpeg
-enhanced/bridge.jpeg
 enhanced/donut.jpeg
 enhanced/scenery.jpeg
-enhanced/fruits.jpeg
 enhanced/city.jpeg
+enhanced/fruits.jpeg
+enhanced/bridge.jpeg
 enhanced/turtle.jpeg
 enhanced/ferret.jpeg
 enhanced/beach.jpeg
 enhanced/sunset.jpeg
 enhanced/paddington.jpg
+enhanced/nature.gif
